@@ -19,6 +19,9 @@
         "vue": "^2.1.10"
     },
     "dependencies": {
-        "bootstrap": "^4.0.0-beta.2"
+        "bootstrap": "^4.0.0-beta.2",
+        "es6-promise": "^4.1.1",
+        "popper.js": "^1.12.9",
+        "vue-router": "^3.0.1"
     }
 }
